@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MovieConnect/static/css/main.d1b05096.chunk.css",
+    "main.js": "/MovieConnect/static/js/main.e7319fb2.chunk.js",
+    "main.js.map": "/MovieConnect/static/js/main.e7319fb2.chunk.js.map",
+    "runtime-main.js": "/MovieConnect/static/js/runtime-main.1153578f.js",
+    "runtime-main.js.map": "/MovieConnect/static/js/runtime-main.1153578f.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/MovieConnect/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3e080fcf.chunk.js": "/MovieConnect/static/js/2.3e080fcf.chunk.js",
+    "static/js/2.3e080fcf.chunk.js.map": "/MovieConnect/static/js/2.3e080fcf.chunk.js.map",
+    "index.html": "/MovieConnect/index.html",
+    "precache-manifest.afb0d0af2c9fe2e2b6cb93bb260a8d6d.js": "/MovieConnect/precache-manifest.afb0d0af2c9fe2e2b6cb93bb260a8d6d.js",
+    "service-worker.js": "/MovieConnect/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/MovieConnect/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/MovieConnect/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3e080fcf.chunk.js.LICENSE": "/MovieConnect/static/js/2.3e080fcf.chunk.js.LICENSE",
+    "static/media/mapdblogo.png": "/MovieConnect/static/media/mapdblogo.3a6c71ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1153578f.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3e080fcf.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e7319fb2.chunk.js"
+  ]
+}
