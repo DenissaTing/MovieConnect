@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87857a768c3544fd53518fd61569df93",
+    "revision": "8ee7a15731975c10018e31d3e6852901",
     "url": "/MovieConnect/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MovieConnect/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "6756962645441352ea7d",
+    "revision": "7ca2e72e946ae654255e",
     "url": "/MovieConnect/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MovieConnect/static/js/2.3e080fcf.chunk.js.LICENSE"
   },
   {
-    "revision": "6756962645441352ea7d",
-    "url": "/MovieConnect/static/js/main.e7319fb2.chunk.js"
+    "revision": "7ca2e72e946ae654255e",
+    "url": "/MovieConnect/static/js/main.893f0128.chunk.js"
   },
   {
     "revision": "4ad4eb5ace030ce0fd49",
